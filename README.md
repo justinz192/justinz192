@@ -1,6 +1,6 @@
 ## Hi there 👋
 ```yaml
-name: Justin Zhou\
+name: Justin Zhou
 ```
 
 <!--
