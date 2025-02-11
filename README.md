@@ -47,6 +47,7 @@ me.greetings()
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="html" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="css" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" alt="pyTorch" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" alt ="flask" width="45" height="45" />
 </p>
 
 <!--[![Justin's GitHub stats](https://github-readme-stats.vercel.app/api?username=justinz192)](https://github.com/anuraghazra/github-readme-stats)-->
